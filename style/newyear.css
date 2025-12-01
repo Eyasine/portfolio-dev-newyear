@@ -120,7 +120,7 @@
     
 }
 .contact-info{
-     background: linear-gradient(to bottom,  rgb(253, 187, 187), rgba(255, 255, 255, 0));
+    background: linear-gradient(to bottom,  rgb(253, 187, 187), rgba(255, 255, 255, 0));
     width: 1320px;
     height: 400px;
     text-align: center;
@@ -137,3 +137,102 @@
 .contact-info .button2024{
     margin-top: 37px;
 }
+
+/* Offer section */
+.offer{
+    
+}
+.offer-content{
+    width: 1320px;
+    height: 460px;
+    margin: 120px auto;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    
+}
+.offer-containers{
+    padding: 0px 50px;
+}
+.offer-containers .offer-sub-title{
+    font-size: 20px;
+    color: #FF0000;
+    font-weight: 400;
+    margin-bottom: 16px;
+    
+}
+.offer-containers h3{
+    font-size: 48px;
+    color: #070211;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.offer-containers .offer-discription{
+    color: #070211a2;
+}
+.happy-year{
+    padding: 0 50px;
+}
+.offer-content .happy-year .img-radius{
+    border: 1px solid #fcfcfc;
+    outline-width: 10px;
+    outline-color: #FF0000;
+    outline-style: solid;
+    outline-offset: 20px;
+    border-radius: 50%;
+    
+}
+
+.offer-content .offer-another-contant h4{
+    font-size: 48px;
+    font-weight: 700;
+    color: #FF0000;
+}
+.offer-another-contant{
+    padding: 0 50px;
+    margin-top: 65px;
+}
+.offer-another-contant h4{
+    margin-bottom: 16px;
+}
+.offer-another-contant p{
+    margin-bottom: 40px;
+    color: #070211a2;
+}
+.offer-another-contant img{
+    width: 100px;
+    height: 100px;
+}
+
+/* gift section */
+
+#gift{
+    width: 1320px;
+    height: 986px;
+    margin: 140px auto;
+}
+.gift-contant{
+    text-align: center;
+}
+
+.gift-container .gift-contant h5{
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.gift-container .gift-contant h1{
+    font-size: 72px;
+    margin-bottom: 28px;
+}
+.gift-container .gift-contant span{
+    color: #FF0000;
+}
+.gift-container .gift-contant p{
+    color: #070211a2;
+    width: 1068px;
+    margin: 0 auto;
+    margin-bottom: 64px;
+}
+
+
+.gift-img-contant{}
